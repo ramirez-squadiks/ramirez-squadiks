@@ -1,32 +1,66 @@
-# konnichiwa, i am resa/resapp/ramirez
-
-### 💫 whoami  
-- 🌐 **frontend developer & backend developer**  
-- 💻 **bot development & discord/telegram**  
-- 📚 **currently studying web development**
-
----
-
-### ⚡ tech stack  
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-008000?style=for-the-badge&logo=mongodb&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-1E90FF?style=for-the-badge&logo=react&logoColor=white)
-![TypeScript](https://img.shields.io/badge/Typescript-FFFFFF?style=for-the-badge&logo=typescript&logoColor=black)
-![C++](https://img.shields.io/badge/C++-1E90FF?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+<h1 align="center"> ramirez-squadiks / experienced coder </h1>
 
 
-![yoru-no-kurage-wa-oyogenai-jellyfish-can't-swim-in-the-night](https://github.com/user-attachments/assets/967e1879-4e7a-4ca6-9c1f-e8105129e4fa)
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=nodejs" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="40" alt="cplusplus logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ts" height="40" alt="typescript logo"  />
+  <img width="12" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=react" height="40" alt="react logo"  />
+  <img width="12" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=sass" height="40" alt="sass logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=git" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=githubactions" height="40" alt="githubactions logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mongodb" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=vscode" height="40" alt="vscode logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=visualstudio" height="40" alt="visualstudio logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=vim" height="40" alt="vim logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo"  />
+  <img width="12" />
+</div>
 
 
-### ⚙️ tools  
-![JetBrains](https://img.shields.io/badge/JetBrains-000000?style=for-the-badge&logo=jetbrains&logoColor=white)
-![FileZilla](https://img.shields.io/badge/FileZilla-BF0000?style=for-the-badge&logo=filezilla&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+###
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=ramirez-squadiks&theme=bear&show_icons=true&hide_border=true&count_private=true&locale=ru">
+</p>
+
+###
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ramirez-squadiks&theme=radical&no-frame=true&no-bg=true&margin-w=4">
+</p>
+
+###
 
 ---
 
