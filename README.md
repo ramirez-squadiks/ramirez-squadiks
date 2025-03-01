@@ -1,4 +1,4 @@
-<h1 align="center"> ramirez-squadiks / experienced coder </h1>
+<h1 align="center">:jellyfish:  ramirez-squadiks / experienced coder :jellyfish: </h1>
 
 
 ###
@@ -62,16 +62,4 @@
 
 ###
 
----
 
-
-
-
-
-
-
-
----
-
-
----
