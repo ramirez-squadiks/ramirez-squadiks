@@ -43,6 +43,8 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=neovim" height="40" alt="neovim logo"  />
   <img width="12" />
+  <img src="https://skillicons.dev/icons?i=arch" height="40" alt="archlinux logo" />
+  <img width="12" />
 </div>
 
 
